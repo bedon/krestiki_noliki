@@ -92,6 +92,7 @@ public class Game {
     }
 
     public static void move() {
+
         boolean isInputRight = false;
         do {
             System.out.println("Player " + activePlayer + " input row 1-3 and column 1-3");
